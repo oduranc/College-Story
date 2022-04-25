@@ -377,5 +377,5 @@ InteropTests/NativeTests/out
 *.received.*
 
 # Custom
-College-Story/CollegeStory/Classes/SystemSupportMail.cs
-College-Story/CollegeStory/Classes/Encrypt.cs
+SystemSupportMail.cs
+Encrypt.cs
